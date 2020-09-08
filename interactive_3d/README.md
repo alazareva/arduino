@@ -2,7 +2,7 @@
 This project uses a [color sensor](https://www.sunfounder.com/product-tcs3200-color-sensor-module.html) and a [distance sensor](https://www.sunfounder.com/ultrasonic-module-hc-sr04-distance-sensor.html) to control
 a Processing animation.
 
-![demo](https://github.com/alazareva/arduino/tree/master/interactive_3d/demo.gif)
+![demo](https://github.com/alazareva/arduino/blob/master/interactive_3d/demo.gif)
 
 ## Wiring it up
 Color Sensor
